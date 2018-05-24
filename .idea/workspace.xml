@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c940e76d-7bea-422b-8386-fa2c9c2271b8" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/Game.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/gameball01/gameball01.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/gameball01/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/gameball01/src/main/java/MyPlaneMainFranme.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/gameball01/src/main/resources/background/wsparticle_18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/13363136734.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/145830eolidi1lkg2ll6bo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/577_38351059_449aab00c6c2736.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/HP.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/baozai_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/baozai_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/baozai_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/big_n1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/boss_n1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/boss_n2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/boss_n3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/boss_n4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/boss_n5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/boss_n6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/image_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/image_2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/image_3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/image_4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/image_5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/img_cloud_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/img_cloud_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/main_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/main_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/main_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/mid_n1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/mid_n2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/mid_n3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/mid_n31.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/mid_n3_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/mid_n3_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/mid_n3_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/mid_n3_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/mpplanes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/mybollet1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/mybollet3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/mybuttle.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/myplane_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/myplane_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/myplane_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/prop_bollet.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/prop_bollet1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/prop_lcon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/small_n1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/small_n1s.PNG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/small_n2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/small_n3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/small_n4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/xx.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/xx_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/xx_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/xx_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/xx_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/xx_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/xx_6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/xx_7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/zd_lcon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/zd_lcon1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/zd_lcon2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/aircraft_image/zd_lcon2.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/egg1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/img_bullet (2).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/img_bullet_laser.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/img_plane_boss_qianzi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_08.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_09.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_23.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_26.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_27.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_28.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_29.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_31.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_34.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_35.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_36.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_37.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_38.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_41.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_42.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_43.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_44.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_45.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_46.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_47.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_48.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_49.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_50.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_51.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_52.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_53.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_54.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_55.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_56.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_57.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_58.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_59.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_60.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_61.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_62.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_63 (2).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_63.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_64.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_65.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_66.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_67.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_67_0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_68.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_69.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_70.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_71.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_72.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_73.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_8yuemazaichuxian.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_Jijiaquan01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_Jijiasuper01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_Jijiasuper02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_Jijiasuper03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_Jijiasuper04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_Jingyinguai2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_Jingyinguai3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_Jingyinguai4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_a_bao01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_a_guang02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_a_keji01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_a_line02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_a_pen01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_a_ray02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_a_ring01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_a_ring05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_a_ring5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_a_ring6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_aboluolaser.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_aboluoranshao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_addexp.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_akl_dian1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_akl_dian2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_akl_dianqiu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_akl_jiaxue1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_akl_ui1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_aquariuswater.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_aquariuswater3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ariesprompt1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ariesprompt2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ariesprompt3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_athenadie.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_backgrounddandelion.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_backgroundsakura.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_baigujing.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_baigujing1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_baigujing3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_baigujingfire.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_baimao0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_baimao1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bajiehurt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_baodian001.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_baofengfly_big.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_baofengfly_small.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_baozhayuansu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_beizi1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_beizi2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_beizi3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_beizi4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_benboba.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bingqiu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombaddone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault23.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault25.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassault9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bombassaultone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_boom01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_boom01guang.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_boom02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_boss_51paoguan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bossbianshen01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bossbianshen02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bossbianshen03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_bosssmall01_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_box01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_box02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_box03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_box04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_boxblue01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_boxblue02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_boxgreen01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_boxgreen02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_c_electric.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_change001.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_change002.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_change003.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_change004.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_change005.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_change006.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_change008.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_chengsejiguang.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_chongwufuhua01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_chongwufuhua1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_chongwufuhua2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_chongwufuhua3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_choujiangfang.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_choujiangyuan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_chuangguanshouling.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_chuangkoubian1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_chuangkoubian2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_chunjieline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dabaozang01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dabaozang02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dabaozang03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dabaozang04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dabaozang05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dabaozang06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dabaozang07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dabaozang08.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dabaozangqk01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dafangkuai1 (2).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dafangkuai1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dafangkuai2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dafangkuai3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daobaozang01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daobaozang02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daojishi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju1 (2).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju2 (2).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju3 (2).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju4 (2).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju5 (2).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju6 (2).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju7 (2).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daoju7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daojufeidao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_daojujiguang.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dasheng001.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dasheng002.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dasheng003.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dasheng004.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dasheng005.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dasheng006.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dasheng007.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dasheng008.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dasheng009.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dasheng010.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dasheng011.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dasheng012.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dbz_bing01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dbz_djbg01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dbz_kuang.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dbz_lg02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dianchong1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dianjiipipei.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dianjiqiujiu01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dianjiqiujiu02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dianlian.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dianlian02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_diaochan_jineng1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_diaochan_jineng3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_diaochan_stand3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_diaochan_wenzi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_diaochan_wenzi1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_diaochan_wenzi2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_diaoluo2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dingshizhandan1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dingshizhandan2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dingshizhandan3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_dtszy1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_duobao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_egg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_fangkua01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_fangkua02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_fangkua03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_feather.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_feiting_luoxuanjiang.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_feixingtuan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_feixingtuanbaoxiang.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_fengbao1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_fengbao2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_fodder64.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_fodder65.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_freeze01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_funeng.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_gangtiezhangai1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_gangtiezhangai2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_gensui.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_gensui01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_gensui02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_gensui03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_gensui04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_gold01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_goldshengji01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_goldshengji02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_guangquan008.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_guanqiatixing1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_guanyu1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_guanyu10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_guanyu2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_guanyu3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_guanyu4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_guanyu5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_guanyu6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_guanyu7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_guanyu8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_guanyu9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_guanyuhuidao_04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_guenonlighting.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_h18daodanwenzi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_h18wuxing.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hbhdsg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hecheng01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hecheng02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hecheng03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hecheng04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hecheng05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_heixiong.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_heixiong01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_heixiong05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hidespiral1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_highexplosivebomb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hljinjie001.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hljinjie002.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hljinjie003.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hljinjie004.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hljinjie005.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hljinjie006.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hljinjie007.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hljinjie008.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hljinjie009.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hong18_01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hong18_02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hong18_liaoji.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_honghaier01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_huanghuoqiuchu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_huangmei.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_huangmei01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_huangmei02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_huangmei03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_huangmei04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hudun01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hudun02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_huixuanbiao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulu9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulujingang1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulujingang10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulujingang11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulujingang12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulujingang13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulujingang14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulujingang15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulujingang2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulujingang4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulujingang5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulujingang7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulujingang8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulujingang9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulushan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulushan2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulushan3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_hulushan4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_huluwa1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_huodongrukou.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_huoqiubianshen.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_img_monster_sma_22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_item_001.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_item_002.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_item_003.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1501.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1502.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1502_low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1503.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1504.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1505.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1506.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1507.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1508.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1509.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1510 - 副本.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1510.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1510_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1511.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1512.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1513.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1514.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1515.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1515_low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1516.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_j1517.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jbldg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiabailie.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiabailie01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiabailie02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiabailiejian.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jian15_01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jian15_02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiguang01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jijiafire.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jijiafire2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jinengchufa1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jinengdianji.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jingbi1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jingbi2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jingyinguai1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jingzhu01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jingzhu02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jinhuazi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jinjiechenggong.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jinjienixi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiqingshuangda01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiuren02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiuren03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiuren04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutian17_low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutian2_low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutian3_low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutian8_low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv11_low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv12_low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv13_low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv1_low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiutianxuannv9_low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jiuyuan1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjadd1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjfhfire.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjfhfire2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjfhjn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjsdsbl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjsdsqk.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjsdsxy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjxsm001.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjxsm002.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjxsm003.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjxsm004.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjxsm005.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjxsm006.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjxsm007.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjxsm008.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_jjxsm009.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_juxie01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_juxie02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_kongfan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_kongleilight.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lansejiguang.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lansejiguang2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_laohuji.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ledou01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ledou02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ledou03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ledou04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ledou05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_leishenhuti01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjie1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjie10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjie11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjie12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjie13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjie2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjie3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjie4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjie5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjie6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjie7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjie8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjie9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjielow1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjielow2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lieyingjinjielow9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_light01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lightning01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lightning02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lightning03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lightning1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lightning2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lightning3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lightning4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lightning5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lightningball.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lightningball_glow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lightningboy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lightningboy_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_limitmove.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_line01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_line02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_line03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_line04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_line05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_line06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_line07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_line09.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_line10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_line11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_liuxing01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_love.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_love2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_luciferfuhuo1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_luciferfuhuo2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_luciferfuhuo3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_luoxuanjiang01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie06_low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie08.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie09.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie11_low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_lxfjinjie14_low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_magnet02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_missile1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_missile2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_mmmjj001.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_mmmjj002.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_mmmjj003.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_mmmjj004.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_mmmjj005.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_mmmjj006.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_mmmjj007.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_money01.PNG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_monster_buf_60.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_monster_buf_61.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_monster_sma2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_motorcycles_fuwen1glow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_motorcycles_fuwen2glow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_motorcycles_fuwen3glow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_mum01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_mum02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_muntubiao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nengliangquan1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nengliangquan2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_newdie.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_newjijiason.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_newpaobing1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nezha1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nezha10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nezha11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nezha12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nezha13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nezha2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nezha3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nezha4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nezha5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nezha6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nezha7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nezha8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nezha9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nianshoulaixi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nianshoulaixi2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nianshoulaixi3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_niumowang01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_niumowang02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_niumowang03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_niumowang04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_niumowang05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nixijinjie1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nixijinjie2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nixijinjie3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nixijinjie4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nixijinjie5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nixijinjiebg04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_nixijjbg03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_p01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_pai.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_pai6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_pai7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_paopao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_paopaobin2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_pengj01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_pengzhang_quan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_penjiangj01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_petattributewater.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_phoenix.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_pkglow1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_pkglow2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_plane01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_plane03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_plane04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_plane_boss_24ball.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_plane_boss_32gong.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_plane_boss_32gong01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_plane_boss_42glow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_plane_meteor.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_pojilu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_poseidon1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_poseidon2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_poseidon3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_propeller01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_puke.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_qianzi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ranshaodan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring09.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring18b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring23.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring23_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring25.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring26.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring27.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring28.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring29.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring30.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring31.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring33.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring34.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring35.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring36.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring37.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ring38.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_romannumber.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_romannumber2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_rukoutuijian.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_rukoutuijian2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_safecasingtwo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_saodangzhong01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_sdgsq1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_sdgsq2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_sdgsq3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_sdgsq4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_sdgsq5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_sdssd.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_shendoushi_attack01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_shengji01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_shengji02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_shenlijuexing.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_shiyesuoxiao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_shizi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_shizitou.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_shunyi5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_sidaig01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_sjpkds.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_smoke01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_smoke02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_smoke03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_smoke04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_smoke05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_smoke06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_smoke07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_smoke08.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_smoke09.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_snow01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_sp_putong.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_sp_wanneng.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_sparclesq01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star08.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star09.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_star19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_starsq01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_suipianfenjie.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_suipianhecheng.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_suipianliuguang.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_sunblast.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_super01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_super02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_super03quan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_super04_01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_super04_02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_super04quan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_superglow01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_superguang01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_superguang02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_superlight01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_superlight02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_superlight03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_superlight04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_taikongdadao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_taikongdadao1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tailinga_0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tailinga_boss01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_taoxin01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_taurusprompt1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_test_001.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_threeyear.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tianbing1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tianbing2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tianbing3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tiankong.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tieshan02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tieshanbajiao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tieshanbajiao2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tixingaquarius.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tixingcancer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tixingcapricornus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tixinggemini.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tixingleo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tixinglibra.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tixingpisces.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tixingsagittarius.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tixingscorpio.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tixingvirgo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tongguan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tongguan0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_touxiang.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_tuji.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_add.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_baofeng.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_chongci.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_die.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_feiyue.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_gongxini.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_hand.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_jieshu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_libao2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_next.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_sx_an.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_sx_dian.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_sx_huo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_sx_shui.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_sx_wu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_zb_putong2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_ui_zb_wanneng.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_vf0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_vf0_qiangkou.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_vfo01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_vfo02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_vfo03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_vfo08.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_vfo_paoguan1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_vfo_paoguan2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_warning1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_watermine_01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_watermine_glow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_wefly01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_wenzi01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_wofang.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_wugong01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_wugong02_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_wugong02_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_wugong02_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_wuguangzhidun1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_wuguangzhidun2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_wuguangzhidun3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_wuguangzhidun4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhj01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhj_bg01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhj_dlbg01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhj_guang02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhj_gz01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhj_gz01_l.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhj_ps01.plist.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhj_sg01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhj_shandian.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhj_shandian01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhj_shi02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhjjinjie1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhjjinjie2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhjjinjie3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xhjjinjie4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xiaofeiniao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xiaoguai.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xiaohuangji.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xiaohudie.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xiaohudie2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xiaojianjian1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xiaojianjian2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xiaotianquan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xiaotianquan1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xiaotianquan2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xingchentao1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xingchentao2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xingchentao3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xingchentao4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xingchentao5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xingchentao6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xingchentao_up1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xingzuoglow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xintianbing1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xintianbing2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xintianbing3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xintianbing4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xintianbing5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xintianbing6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xinyuanzhengzi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xjbz001.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xjbz002.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xjbz003.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xjbz004.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xjbz005.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xsm01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xsm02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xuanguangzhan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xuangui01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xuangui02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_xyyzbx.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_yang.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_yang2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_yangtou.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_youjijiacheng01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_youjijiacheng02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_youjijiacheng03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_youjijiacheng04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_youlingmotuo1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_yuanzhenghezi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_yunliang.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbbinglong.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbbinglong002.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbbinglong_up1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbbinglong_up2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbbinglong_up3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbddwy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbhoutao1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbhoutao2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbhoutao_up1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbhoutao_up2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbhoutao_up3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbhoutao_up4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbhoutao_up5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbhoutao_up6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbhoutao_up7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbhoutao_up8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbyangtao_up1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbyangtao_up2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zbyangtao_up3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zhangai.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zhangai01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zhangai02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zhangai03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zhixie.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zisejiguang.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zongziye.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/image/buellt_image/wsparticle_zzmiwu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/baozha.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/bgm_zhandou1.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/bgm_zhandou2.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/bgm_zhandou3.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/bullet.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/button.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/chonga.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/cxx.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/enemy1_down.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/enemy2_down.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/enemy3_down.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/enemy3_flying.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/game_music.ogg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/get_bomb.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/get_bullet.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/luoxuanjiang.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/me_down.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/sandan.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/supply.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/upgrade.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Game/resource/sound/use_bomb.wav" />
+    </list>
+    <ignored path="$PROJECT_DIR$/../Game/out/" />
+    <ignored path="$PROJECT_DIR$/../Game/gameball01/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MyPlaneMainFranme.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Game/gameball01/src/main/java/MyPlaneMainFranme.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Game/gameball01/src/main/java/MyPlaneMainFranme.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="772" />
+    <option name="y" value="32" />
+    <option name="width" value="1138" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="gameball01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="gameball01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="gameball01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="gameball01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c940e76d-7bea-422b-8386-fa2c9c2271b8" name="Default" comment="" />
+      <created>1527143320488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527143320488</updated>
+      <workItem from="1527143321654" duration="1906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1906000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="772" y="32" width="1138" height="1038" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24953617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Game/gameball01/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Game/gameball01/src/main/java/MyPlaneMainFranme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Game</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
